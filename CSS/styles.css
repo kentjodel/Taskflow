@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: deepskyblue;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    justify-content: space-between;
+}
+h2 {
+    margin: 15px 15px 15px;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+#Home {
+    background-color: black;
+    border-radius:5%;
+    padding: 10px 14px 10px 14px;
+    margin: 12px 12px 12px;
+}
+#About {
+    background-color: black;
+    border-radius:5%;
+    padding: 10px 14px 10px 14px;
+    margin: 12px 12px 12px;
+}
+#login {
+    background-color: black;
+    border-radius:5%;
+    padding: 10px 14px 10px 14px;
+    margin: 12px 12px 12px;
+}
+#sign-up {
+    background-color: rgb(174, 173, 173);
+    color: black;
+    border-radius:5%;
+    padding: 10px 14px 10px 14px;
+    margin: 12px 12px 12px;
+}
