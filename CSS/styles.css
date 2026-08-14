@@ -5,6 +5,7 @@
     padding-top: 13px;
     padding-bottom: 13px;
     justify-content: space-between;
+    margin-bottom: 0px;
 }
 h2 {
     margin: 15px 15px 15px;
@@ -41,4 +42,29 @@ a {
     border-radius:5%;
     padding: 10px 14px 10px 14px;
     margin: 12px 12px 12px;
+}
+.Welcome {
+    background-color: beige;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.helo {
+    font-size: large;
+    color: rgb(97, 95, 95);
+    padding-top: 20px;
+}
+.title {
+    font-weight: bold;
+    color:  rgb(1, 46, 46);
+}
+.button {
+    color: rgb(17, 16, 16);
+    padding: 5px 10px 5px;
+    border-radius: 3px;
+}
+.button:hover {
+    cursor: pointer;
+    text-decoration: underline;
 }
